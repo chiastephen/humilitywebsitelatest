@@ -53,7 +53,7 @@ a:hover {color: red;}
  .heading2{text-align: center; font-size: 40px;}
   h3 { margin-top: -15px; font-size: 10px;}
   iframe {width: 300px; height: 150px; display: block;}
-  .icon {width: 8px; height: 8px; margin-inline: 2px;}
+  .icon {width: 10px; height: 10px; margin-inline: 2px;}
   .icon2{height: 20px; width: 20px; margin-inline: 10px; margin-left: 100px; display: none;}
   hr {width: 5%;}
 }
