@@ -2,7 +2,7 @@
 body {background-color:antiquewhite; margin: 40px;}
 h1 {font-family: 'Amatic SC'; color: blueviolet;}
 h2 {font-family: 'Ruluko'; color: #025955; font-size: 20px;}
-h3 {margin-top:-50px; color: purple; font-family:'Times New Roman', Times, serif; margin-inline: 5px; font-size: 15px;}
+h3 {margin-top:-50px; color: purple; font-family:'Times New Roman', Times, serif; margin-inline: 2px; font-size: 10px;}
 a:link {color: purple;}
 .logo{height: 100px; width: 100px;}
 .heading {font-family: 'Amatic Sc'; font-size: 30px;}
@@ -20,7 +20,7 @@ footer {
     text-align: center; font-family: 'Handlee'}
 iframe {margin-left: auto; margin-right: auto; display: block; height: 200px; width:400px; }
 .vtitle {text-align: center;}
-.icon {width: 30px; height: 30px;}
+.icon {width: 20px; height: 20px;}
 a:hover {color: red;}
 
 
@@ -52,7 +52,7 @@ a:hover {color: red;}
  .heading{display: none;}
  .heading2{text-align: center; font-size: 40px;}
   h3 { margin-top: -15px; font-size: 10px;}
-  iframe {width: 300px; height: 150px; display: block;}
+  iframe {width: 500px; height: 250px; display: block;}
   .icon {width: 20px; height: 20px; margin-inline: 2px;}
   .icon2{height: 20px; width: 20px; margin-inline: 10px; margin-left: 100px; display: none;}
   hr {width: 5%;}
