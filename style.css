@@ -29,7 +29,7 @@ a:hover {color: red;}
 @media (min-width: 319px) and (max-width: 480px) {
   body {background-color: lightsalmon; margin: 10px}
   img  {width: 300px; height: 150px; display: block;}
- .logo {width: 30px; height: 30px;}
+ .logo {width: 50px; height: 50px;}
   h2   {font-size: 10px; margin: 2%;}
   h1   {font-size: 15px;}
   .heading {display: none;}
